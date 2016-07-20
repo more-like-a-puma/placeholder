@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  background: url("./assets/background.jpg");
+  color: white;
+}
+
+.comingSoon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 100px;
+}
